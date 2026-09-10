@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/0258-add-digits) |
 | [0441-arranging-coins](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/0441-arranging-coins) |
 | [2427-number-of-common-factors](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/2427-number-of-common-factors) |
