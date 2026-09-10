@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/0258-add-digits) |
 | [0441-arranging-coins](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/0441-arranging-coins) |
 | [2427-number-of-common-factors](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/2427-number-of-common-factors) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3870-count-commas-in-range](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/3870-count-commas-in-range) |
 ## Enumeration
 |  |
