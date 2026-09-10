@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/2427-number-of-common-factors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2544-alternating-digit-sum](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/2544-alternating-digit-sum) |
+| [2769-find-the-maximum-achievable-number](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/2769-find-the-maximum-achievable-number) |
 | [3870-count-commas-in-range](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/3870-count-commas-in-range) |
 ## Enumeration
 |  |
