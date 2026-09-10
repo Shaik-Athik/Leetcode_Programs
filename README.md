@@ -48,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0940-distinct-subsequences-ii](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/0940-distinct-subsequences-ii) |
+## Array
+|  |
+| ------- |
+| [1470-shuffle-the-array](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/1470-shuffle-the-array) |
 <!---LeetCode Topics End-->
