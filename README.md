@@ -6,5 +6,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2427-number-of-common-factors](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/2427-number-of-common-factors) |
 | [3870-count-commas-in-range](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/3870-count-commas-in-range) |
+## Enumeration
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/2427-number-of-common-factors) |
+## Number Theory
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/2427-number-of-common-factors) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
