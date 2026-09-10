@@ -40,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/0258-add-digits) |
+## String
+|  |
+| ------- |
+| [0940-distinct-subsequences-ii](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/0940-distinct-subsequences-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0940-distinct-subsequences-ii](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/0940-distinct-subsequences-ii) |
 <!---LeetCode Topics End-->
