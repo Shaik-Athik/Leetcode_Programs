@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/0258-add-digits) |
 | [0441-arranging-coins](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/0441-arranging-coins) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2427-number-of-common-factors](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/2427-number-of-common-factors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2544-alternating-digit-sum](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/2544-alternating-digit-sum) |
@@ -51,5 +52,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/1470-shuffle-the-array) |
 <!---LeetCode Topics End-->
