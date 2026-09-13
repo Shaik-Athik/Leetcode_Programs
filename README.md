@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/0258-add-digits) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/2161-partition-array-according-to-given-pivot) |
 ## String
 |  |
 | ------- |
@@ -54,4 +55,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/1470-shuffle-the-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/2161-partition-array-according-to-given-pivot) |
+## Two Pointers
+|  |
+| ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/2161-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
