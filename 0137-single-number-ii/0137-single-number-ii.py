@@ -1,10 +1,9 @@
 class Solution:
     def singleNumber(self, nums: list[int]) -> int:
-        ans = []
-        for i in nums:
-            if i not in ans:
-                ans.append(i)
-        
-        for i in ans:
-            if nums.count(i)==ans.count(i):
-                return i
+        nums.sort()
+
+        for i in range(0, len(nums) - 1, 3):
+            if i + 1 >= len(nums) or nums[i] != nums[i + 1]:
+                return nums[i]
+
+        return nums[-1]
