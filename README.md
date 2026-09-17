@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2544-alternating-digit-sum](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/2544-alternating-digit-sum) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/2769-find-the-maximum-achievable-number) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3870-count-commas-in-range](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/3870-count-commas-in-range) |
 ## Enumeration
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/1470-shuffle-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/0260-single-number-iii) |
+## Hash Table
+|  |
+| ------- |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 <!---LeetCode Topics End-->
