@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/1470-shuffle-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3467-transform-array-by-parity](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/3467-transform-array-by-parity) |
 ## Two Pointers
 |  |
 | ------- |
@@ -74,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+## Sorting
+|  |
+| ------- |
+| [3467-transform-array-by-parity](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/3467-transform-array-by-parity) |
+## Counting
+|  |
+| ------- |
+| [3467-transform-array-by-parity](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/3467-transform-array-by-parity) |
 <!---LeetCode Topics End-->
