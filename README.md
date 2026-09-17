@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2544-alternating-digit-sum](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/2544-alternating-digit-sum) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/2769-find-the-maximum-achievable-number) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3870-count-commas-in-range](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/3870-count-commas-in-range) |
 ## Enumeration
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/1470-shuffle-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/3467-transform-array-by-parity) |
 ## Two Pointers
 |  |
