@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0940-distinct-subsequences-ii](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/0940-distinct-subsequences-ii) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Shaik-Athik/Leetcode_Programs/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Sorting
 |  |
 | ------- |
